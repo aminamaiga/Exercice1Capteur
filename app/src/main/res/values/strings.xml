@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Exercice1Capteur</string>
+    <string name="no_sensor">Capteur de luminosité est absent</string>
+</resources>
